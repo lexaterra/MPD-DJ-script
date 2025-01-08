@@ -1,5 +1,5 @@
-# CMus-Music-Player-DJ-script
+# MPD-DJ-script
 
-A script to change track after a specified time
+A script to change track after a specified time... also starts each track after: 1:00mins
 
-For CMus music terminal player!
+For MPD music terminal player!
