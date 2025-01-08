@@ -2,6 +2,8 @@
 
 A script to change each track after a specified time... also starts each track after: 1:00mins
 
+This script is especially nice for edm/electro/techno/chillout music collections...
+
 For MPD music terminal player!
 
 A very nice gui to control mpd in android is MAFA, available at the playstore:
